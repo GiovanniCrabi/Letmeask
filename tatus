@@ -1,0 +1,29 @@
+[33mcommit 8a5a2ab94ec79b49c22ce7e88fae423973f6d747[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigen/main[m[33m)[m
+Author: GiovanniCrabi <crabigiovanni@gmail.com>
+Date:   Sat Jul 10 18:32:03 2021 -0300
+
+    Modifications created
+
+[33mcommit 294e7de57351f1147c160de518a5f2b0f2335c9f[m
+Author: GiovanniCrabi <crabigiovanni@gmail.com>
+Date:   Thu Jul 8 23:04:40 2021 -0300
+
+    Modified
+
+[33mcommit 22b322d7e193aaa780eb990c79555dd467412a61[m
+Author: GiovanniCrabi <crabigiovanni@gmail.com>
+Date:   Sun Jul 4 22:37:32 2021 -0300
+
+    New commit
+
+[33mcommit d003ce63e1b6a1f18ee068d5d18b47902fdee094[m
+Author: GiovanniCrabi <crabigiovanni@gmail.com>
+Date:   Thu Jul 1 09:41:29 2021 -0300
+
+    initial commit
+
+[33mcommit 6361906e525c5a41cda7c95667d97f3372bdcbe4[m
+Author: GiovanniCrabi <crabigiovanni@gmail.com>
+Date:   Wed Jun 23 01:02:18 2021 -0300
+
+    Initialize project using Create React App
