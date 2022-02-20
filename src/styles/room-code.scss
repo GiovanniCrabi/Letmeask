@@ -8,36 +8,46 @@
 
   display: flex;
 
-  div {
-    background: #835afd;
-    padding: 0 12px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    transition: filter 0.2s; 
+  transition: filter 0.2s; 
 
     &:not(:disabled):hover {
       filter: brightness(0.9); 
     }
   
     &:disabled {
-      opacity: 0.10;
+      opacity: 0.6;
       cursor: not-allowed;
   
     }
 
+  div {
+    background: #835afd;
+    padding: 0 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
     .image {
       height: 38px;
     }
   }
 
   span {
-    display: block;
+    display: flex;
     align-self: center;
     flex: 1;
     padding: 0 16px 0 12px;
     width: 240px;
     font-size: 14px;
     font-weight: 500;
+
+    .p1 {
+      color: #835afd;
+      font-weight: bold;
+    }
+
+    .p2 {
+      margin-left: 5px;
+    }
   }
 }
