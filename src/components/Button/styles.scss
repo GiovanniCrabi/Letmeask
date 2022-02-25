@@ -15,7 +15,15 @@
 
   transition: filter 0.2s; // tempo que demora para o button escorecer
 
+  img { 
+    margin-right: 8px;
+  }
 
+  &.outlined {
+    background: #FFF;
+    border: 1px solid #835afd;
+    color: #835afd;
+  }
 
   //somente aplicara a função hover SE o botão não estiver desabilitado.
   &:not(:disabled):hover {

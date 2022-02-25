@@ -1,5 +1,5 @@
 import './styles.scss';
-
+import '../../assets/images/anonymous-image.svg'
 
 type QuestionProps = {
   content: string;
